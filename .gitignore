@@ -1,0 +1,11 @@
+# Maven build files
+/target/
+!target/*.jar
+
+# IDE specific files (for IntelliJ or Eclipse)
+/.idea/
+/*.iml
+/.vscode/
+/.project
+/.classpath
+/.settings/
